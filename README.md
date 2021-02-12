@@ -1,0 +1,1 @@
+# electron-configuration-arrow-notation
